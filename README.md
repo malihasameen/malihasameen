@@ -31,5 +31,6 @@
 <img align="left" alt="illustrator" title="illustrator" width="30px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /> </p> 
 <br>
 
+---
 ![Maliha Sameen's github stats](https://github-readme-stats.vercel.app/api?username=malihasameen&count_private=true&show_icons=true&include_all_commits=true)
 ![Maliha Sameen's github langs](https://github-readme-stats.vercel.app/api/top-langs/?username=malihasameen&count_private=true&layout=compact&langs_count=7&hide=css&card_width=400)
