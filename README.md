@@ -9,6 +9,8 @@
 <a href="https://www.hackerrank.com/malihasameen58" target="blank"><img align="left" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="malihasameen58" height="25px" width="25px" /></a>
 </p>
 
+<br>
+
 <h3 align="left">Tools, Technologies and Frameworks:</h3>
 <p align="left"> <img align="left" alt="python" title="python" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" />
 <img align="left" alt="tensorflow" title="tensorflow" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" />
