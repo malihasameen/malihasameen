@@ -3,10 +3,10 @@
 
 <p align="left">
 <h3 align="left">Connect with me:</h3>
-<a href="https://linkedin.com/in/maliha-sameen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/linkedin.svg" alt="maliha-sameen" height="25px" width="25px" /></a> &ensp;  
-<a href="https://kaggle.com/malihasameen" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/kaggle.svg" alt="malihasameen" height="25px" width="25px" /></a> &ensp;  
-<a href="https://medium.com/@malihasameen58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/medium.svg" alt="@malihasameen58" height="25px" width="25px" /></a> &ensp;  
-<a href="https://www.hackerrank.com/malihasameen58" target="blank"><img align="center" src="https://cdn.jsdelivr.net/npm/simple-icons@3.0.1/icons/hackerrank.svg" alt="malihasameen58" height="25px" width="25px" /></a> &ensp; 
+<a href="https://linkedin.com/in/maliha-sameen" target="blank"><img align="center" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" alt="maliha-sameen" /></a> &ensp;  
+<a href="https://github.com/malihasameen" target="blank"><img align="center" src="https://img.shields.io/badge/github-%23100000.svg?&style=for-the-badge&logo=github&logoColor=white" alt="malihasameen" /></a> &ensp;  
+<a href="https://medium.com/@malihasameen58" target="blank"><img align="center" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" alt="@malihasameen58" /></a> &ensp;  
+<a href="mailto:malihasameen58@gmail.com" target="blank"><img align="center" src="https://img.shields.io/badge/gmail-D14836?&style=for-the-badge&logo=gmail&logoColor=white" alt="malihasameen58" /></a> &ensp; 
 </p>
 
 <h3 align="left">Languages and Tools:</h3>
