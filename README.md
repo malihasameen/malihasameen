@@ -18,11 +18,11 @@
   <a> <img alt="dask" title="dask" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/dask/dask-ar21.svg" /> </a> &ensp;
   <a> <img alt="opencv" title="opencv" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/opencv/opencv-icon.svg" /> </a> &ensp;
   <a> <img alt="flask" title="flask" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/pocoo_flask/pocoo_flask-icon.svg" /> </a> &ensp;
-  <a> <img alt="android" title="android" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/android/android-original-wordmark.svg" /> </a> &ensp;
+  <a> <img alt="android" title="android" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /> </a> &ensp;
   <a> <img alt="git" title="git" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a> &ensp;
   <a> <img alt="github" title="github" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a> &ensp;
   <a> <img alt="mysql" title="mysql" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" /> </a> &ensp;
-  <a> <img alt="amazonwebservices" title="amazonwebservices" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/amazonwebservices/amazonwebservices-original-wordmark.svg" /> </a> &ensp;
+  <a> <img alt="amazonwebservices" title="amazonwebservices" width="60px" height="30px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" /> </a> &ensp;
   <a> <img alt="gcp" title="gcp" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> </a> &ensp;
   <a> <img alt="kubernetes" title="kubernetes" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> </a> &ensp;
   <a> <img alt="docker" title="docker" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" /> </a> &ensp;
