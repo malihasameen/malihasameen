@@ -11,7 +11,7 @@
 
 <h3 align="left">Languages and Tools:</h3>
 <p align="left"> 
-  <a> <img alt="python" title="python" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/python/python-original.svg" /> </a> &ensp;
+  <a> <img alt="python" title="python" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/python/python-icon.svg" /> </a> &ensp;
   <a> <img alt="tensorflow" title="tensorflow" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/tensorflow/tensorflow-icon.svg" /> </a> &ensp;
   <a> <img alt="pytorch" title="pytorch" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/pytorch/pytorch-icon.svg" /> </a> &ensp;
   <a> <img alt="scikitlearn" title="scikitlearn" width="30px" height="30px" src="https://upload.wikimedia.org/wikipedia/commons/0/05/Scikit_learn_logo_small.svg" /> </a> &ensp;
@@ -21,11 +21,11 @@
   <a> <img alt="android" title="android" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/android/android-icon.svg" /> </a> &ensp;
   <a> <img alt="git" title="git" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/git-scm/git-scm-icon.svg" /> </a> &ensp;
   <a> <img alt="github" title="github" width="30px" height="30px" src="https://raw.githubusercontent.com/github/explore/78df643247d429f6cc873026c0622819ad797942/topics/github/github.png" /> </a> &ensp;
-  <a> <img alt="mysql" title="mysql" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/mysql/mysql-original-wordmark.svg" /> </a> &ensp;
+  <a> <img alt="mysql" title="mysql" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/mysql/mysql-icon.svg" /> </a> &ensp;
   <a> <img alt="amazonwebservices" title="amazonwebservices" width="60px" height="30px" src="https://www.vectorlogo.zone/logos/amazon_aws/amazon_aws-ar21.svg" /> </a> &ensp;
   <a> <img alt="gcp" title="gcp" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> </a> &ensp;
   <a> <img alt="kubernetes" title="kubernetes" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> </a> &ensp;
-  <a> <img alt="docker" title="docker" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/docker/docker-original-wordmark.svg" /> </a> &ensp;
+  <a> <img alt="docker" title="docker" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" /> </a> &ensp;
   <a> <img alt="photoshop" title="photoshop" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" /> </a> &ensp;
   <a> <img alt="illustrator" title="illustrator" width="30px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /> </a> 
 </p>
