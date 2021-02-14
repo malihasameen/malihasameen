@@ -26,7 +26,7 @@
   <a> <img alt="gcp" title="gcp" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/google_cloud/google_cloud-icon.svg" /> </a> &ensp;
   <a> <img alt="kubernetes" title="kubernetes" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/kubernetes/kubernetes-icon.svg" /> </a> &ensp;
   <a> <img alt="docker" title="docker" width="30px" height="30px" src="https://www.vectorlogo.zone/logos/docker/docker-icon.svg" /> </a> &ensp;
-  <a> <img alt="photoshop" title="photoshop" width="30px" height="30px" src="https://devicons.github.io/devicon/devicon.git/icons/photoshop/photoshop-plain.svg" /> </a> &ensp;
+  <a> <img alt="photoshop" title="photoshop" width="30px" height="30px" src="https://github.com/devicons/devicon/blob/master/icons/photoshop/photoshop-plain.svg" /> </a> &ensp;
   <a> <img alt="illustrator" title="illustrator" width="30px" src="https://www.vectorlogo.zone/logos/adobe_illustrator/adobe_illustrator-icon.svg" /> </a> 
 </p>
 
